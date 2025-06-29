@@ -24,23 +24,23 @@
 
 > _“AI and data are the new oil, and I am the refinery engineer.”_  
 
-- 🎓 MS in Information Systems @ Northeastern University (AI/ML specialization)  
-- 🧠 Expertise in ML, DL, GenAI, Agent Systems, and Full Stack AI Engineering  
-- 🔬 Replicating & improving diffusion models, transformers, multi-agent systems  
-- 💼 Skilled in scalable AI pipelines, vector search, hybrid RAG systems, MLOps  
-- 🛠️ Tech stack spans Python, PyTorch, LangGraph, FastAPI, Docker, AWS, MongoDB, React  
+- 🎓 MS in Computer Software Engineering @ Northeastern University (AI/ML specialization)  
+- 🧠 Expertise in ML, DL, GenAI, Agent Systems, and Full Stack AI Engineering
+- - 🛠️ Tech stack spans Python, PyTorch, LangGraph, FastAPI, Docker, AWS, MongoDB, React
+- 🔬 Developing and improving multi-agent systems  
+- 💼 Skilled in scalable AI pipelines, vector search, hybrid RAG systems, MLOps    
 - 🌱 Passionate about open source, research reproducibility, and ethical AI  
 
 ---
 
 ## 📌 Pinned Repositories
 
-[![Medical Assistant](https://github-readme-stats.vercel.app/api/pin/?username=PradyumnaRaghavendra&repo=MedicalAssistant&theme=tokyonight)](https://github.com/PradyumnaRaghavendra/MedicalAssistant)  
+[![Medical Assistant](https://github-readme-stats.vercel.app/api/pin/?username=PradyumnaRaghavendra&repo=MedicalAssistant&theme=tokyonight)](https://github.com/PradyumnaRaghavendra/AI-Agent-Driven-Medical-Assistant-Platform)  
 [![GenAI Replication](https://github-readme-stats.vercel.app/api/pin/?username=PradyumnaRaghavendra&repo=GenAI-Replication&theme=tokyonight)](https://github.com/PradyumnaRaghavendra/GenAI-Replication)  
-[![AdOnWheels](https://github-readme-stats.vercel.app/api/pin/?username=PradyumnaRaghavendra&repo=AdOnWheels&theme=tokyonight)](https://github.com/PradyumnaRaghavendra/AdOnWheels)  
+[![AdOnWheels](https://github-readme-stats.vercel.app/api/pin/?username=PradyumnaRaghavendra&repo=AdOnWheels&theme=tokyonight)](https://github.com/ChandrakiranGR/AdOnWheel)  
 [![Hybrid-Agent-RAG](https://github-readme-stats.vercel.app/api/pin/?username=PradyumnaRaghavendra&repo=Hybrid-Agent-RAG&theme=tokyonight)](https://github.com/PradyumnaRaghavendra/Hybrid-Agent-RAG)  
 [![ML-FastAPI-Template](https://github-readme-stats.vercel.app/api/pin/?username=PradyumnaRaghavendra&repo=ML-FastAPI-Template&theme=tokyonight)](https://github.com/PradyumnaRaghavendra/ML-FastAPI-Template)  
-[![DiffusionLab](https://github-readme-stats.vercel.app/api/pin/?username=PradyumnaRaghavendra&repo=DiffusionLab&theme=tokyonight)](https://github.com/PradyumnaRaghavendra/DiffusionLab)  
+[![DiffusionLab](https://github-readme-stats.vercel.app/api/pin/?username=PradyumnaRaghavendra&repo=DiffusionLab&theme=tokyonight)](https://github.com/PradyumnaRaghavendra/AbDiffuser)  
 
 ---
 
