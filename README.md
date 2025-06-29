@@ -33,17 +33,6 @@
 
 ---
 
-## 📌 Pinned Repositories
-
-[![Medical Assistant](https://github-readme-stats.vercel.app/api/pin/?username=PradyumnaRaghavendra&repo=MedicalAssistant&theme=tokyonight)](https://github.com/PradyumnaRaghavendra/AI-Agent-Driven-Medical-Assistant-Platform)  
-[![GenAI Replication](https://github-readme-stats.vercel.app/api/pin/?username=PradyumnaRaghavendra&repo=GenAI-Replication&theme=tokyonight)](https://github.com/PradyumnaRaghavendra/GenAI-Replication)  
-[![AdOnWheels](https://github-readme-stats.vercel.app/api/pin/?username=PradyumnaRaghavendra&repo=AdOnWheels&theme=tokyonight)](https://github.com/ChandrakiranGR/AdOnWheel)  
-[![Hybrid-Agent-RAG](https://github-readme-stats.vercel.app/api/pin/?username=PradyumnaRaghavendra&repo=Hybrid-Agent-RAG&theme=tokyonight)](https://github.com/PradyumnaRaghavendra/Hybrid-Agent-RAG)  
-[![ML-FastAPI-Template](https://github-readme-stats.vercel.app/api/pin/?username=PradyumnaRaghavendra&repo=ML-FastAPI-Template&theme=tokyonight)](https://github.com/PradyumnaRaghavendra/ML-FastAPI-Template)  
-[![DiffusionLab](https://github-readme-stats.vercel.app/api/pin/?username=PradyumnaRaghavendra&repo=DiffusionLab&theme=tokyonight)](https://github.com/PradyumnaRaghavendra/AbDiffuser)  
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 ### 💡 Languages  
