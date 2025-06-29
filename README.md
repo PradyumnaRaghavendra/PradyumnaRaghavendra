@@ -10,8 +10,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PradyumnaRaghavendra&style=flat-square&color=blue" alt="Profile views" />
-  &nbsp;&nbsp;
+  
   <img src="https://img.shields.io/badge/Machine%20Learning-%F0%9F%A4%96-orange" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Deep%20Learning-%F0%9F%92%BB-red" />
