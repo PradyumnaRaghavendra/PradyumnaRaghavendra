@@ -26,7 +26,7 @@
 
 - 🎓 MS in Computer Software Engineering @ Northeastern University (AI/ML specialization)  
 - 🧠 Expertise in ML, DL, GenAI, Agent Systems, and Full Stack AI Engineering
-- - 🛠️ Tech stack spans Python, PyTorch, LangGraph, FastAPI, Docker, AWS, MongoDB, React
+- 🛠️ Tech stack spans Python, PyTorch, LangGraph, FastAPI, Docker, AWS, MongoDB, React
 - 🔬 Developing and improving multi-agent systems  
 - 💼 Skilled in scalable AI pipelines, vector search, hybrid RAG systems, MLOps    
 - 🌱 Passionate about open source, research reproducibility, and ethical AI  
